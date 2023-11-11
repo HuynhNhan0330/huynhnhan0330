@@ -23,6 +23,10 @@
 ![](https://skillicons.dev/icons?i=cpp,cs,python,mysql,dotnet,git,")
 
 ## 📊 Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huynhnhan0330&theme=dracula&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhnhan0330&theme=dracula&hide_border=false" alt="Stats" style="height: calc(400px - 200px); object-fit: cover;">
+</div>
+
+
