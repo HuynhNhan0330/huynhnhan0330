@@ -28,20 +28,32 @@
 <h2 align="center">💻 Languages - Frameworks - Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,nodejs" />
-    <img src="https://skillicons.dev/icons?i=,visualstudio,vscode,idea,github,git,figma," />
-    <img src="https://skillicons.dev/icons?i=,mysql,mongodb,firebase,azure,dotnet," />
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,nodejs" />
+    </div>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,git,figma" />
+    </div>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,azure,dotnet" />
+    </div>
     <br>
 </div>
 
-<br/> 
+<br/>
 
 <hr/>
 
 <h2 align="center">📊 Stats 📊</h2>
 <br/>
 <div align="center">
+    <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
+    </div>
+    <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhnhan0330&theme=dracula&hide_border=false">
+    </div>
+    <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhnhan0330&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    </div>
 </div>
